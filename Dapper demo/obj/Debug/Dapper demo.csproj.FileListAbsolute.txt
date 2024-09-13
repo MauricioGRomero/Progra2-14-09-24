@@ -1,0 +1,15 @@
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper demo.csproj.AssemblyReference.cache
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper_demo.Form1.resources
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper_demo.Properties.Resources.resources
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper demo.csproj.GenerateResource.cache
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper demo.csproj.CoreCompileInputs.cache
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\Dapper demo.exe.config
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\Dapper demo.exe
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\Dapper demo.pdb
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\AccesoDatos.dll
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\Dapper.dll
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\AccesoDatos.pdb
+C:\Users\imano\source\repos\Progra2\Dapper demo\bin\Debug\Dapper.xml
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper d.1B3DDD61.Up2Date
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper demo.exe
+C:\Users\imano\source\repos\Progra2\Dapper demo\obj\Debug\Dapper demo.pdb
